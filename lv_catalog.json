@@ -1,0 +1,168 @@
+[
+    {
+        "id": "lv_001",
+        "name": "Neverfull MM",
+        "price": 2030,
+        "currency": "USD",
+        "category": "Bags",
+        "description": "The Neverfull MM tote unites timeless design with heritage details. Crafted from supple Monogram canvas with natural cowhide trim, it is roomy yet not bulky.",
+        "color": "Brown/Monogram",
+        "material": "Monogram Coated Canvas",
+        "style_tags": [
+            "classic",
+            "everyday",
+            "tote",
+            "spacious",
+            "heritage"
+        ]
+    },
+    {
+        "id": "lv_002",
+        "name": "Capucines BB",
+        "price": 6750,
+        "currency": "USD",
+        "category": "Bags",
+        "description": "Named after the Rue des Capucines in Paris, where Louis Vuitton opened for business in 1854, this Capucines BB handbag is beautifully crafted from full-grain Taurillon leather.",
+        "color": "Noir",
+        "material": "Taurillon Leather",
+        "style_tags": [
+            "evening",
+            "elegant",
+            "luxurious",
+            "structured",
+            "iconic"
+        ]
+    },
+    {
+        "id": "lv_003",
+        "name": "Keepall Bandoulière 50",
+        "price": 2550,
+        "currency": "USD",
+        "category": "Luggage",
+        "description": "An icon since the appearance in 1930, the Keepall embodies the spirit of modern travel. Light, supple and always ready for immediate departure.",
+        "color": "Macassar",
+        "material": "Monogram Macassar Canvas",
+        "style_tags": [
+            "travel",
+            "weekend",
+            "cabin-size",
+            "classic",
+            "unisex"
+        ]
+    },
+    {
+        "id": "lv_004",
+        "name": "LV Trainer Sneaker",
+        "price": 1360,
+        "currency": "USD",
+        "category": "Shoes",
+        "description": "Designed by Virgil Abloh, the iconic LV Trainer sneaker is revisited in Monogram denim. The elaborate construction of this model takes Louis Vuitton artisans seven hours to stitch.",
+        "color": "Blue",
+        "material": "Monogram Denim",
+        "style_tags": [
+            "streetwear",
+            "casual",
+            "statement",
+            "sneaker",
+            "menswear"
+        ]
+    },
+    {
+        "id": "lv_005",
+        "name": "Star Trail Ankle Boot",
+        "price": 1820,
+        "currency": "USD",
+        "category": "Shoes",
+        "description": "The Star Trail ankle boot, one of Louis Vuitton's most recognizable designs, is crafted from Monogram canvas with black calf-leather trim. It features a high heel and a treaded rubber outsole.",
+        "color": "Brown/Black",
+        "material": "Monogram Canvas & Calf Leather",
+        "style_tags": [
+            "edgy",
+            "winter",
+            "heeled-boot",
+            "bold"
+        ]
+    },
+    {
+        "id": "lv_006",
+        "name": "Monogram Classic Scarf",
+        "price": 610,
+        "currency": "USD",
+        "category": "Accessories",
+        "description": "The Monogram Classic scarf is woven from a soft, warm mixture of silk and wool. It is distinguished by its tone-on-tone Monogram pattern, offering a subtle signature.",
+        "color": "Anthracite",
+        "material": "Silk and Wool Blend",
+        "style_tags": [
+            "winter",
+            "versatile",
+            "subtle",
+            "warm",
+            "gift"
+        ]
+    },
+    {
+        "id": "lv_007",
+        "name": "Tambour Street Diver Watch",
+        "price": 5605,
+        "currency": "USD",
+        "category": "Watches",
+        "description": "The Tambour Street Diver brings the Tambour watch into the realm of high-end sports. Robust and highly legible, it combines traditional diving features with vibrant, unconventional style.",
+        "color": "Neon Black",
+        "material": "Stainless Steel & Rubber",
+        "style_tags": [
+            "sporty",
+            "luxury-watch",
+            "statement",
+            "water-resistant"
+        ]
+    },
+    {
+        "id": "lv_008",
+        "name": "Silhouette Ankle Boot",
+        "price": 1450,
+        "currency": "USD",
+        "category": "Shoes",
+        "description": "The Silhouette ankle boot is crafted from smooth calf leather. Its signature is its Monogram Flower-shaped heel, a testament to Louis Vuitton's craftsmanship.",
+        "color": "Black",
+        "material": "Calf Leather",
+        "style_tags": [
+            "elegant",
+            "evening",
+            "signature-heel",
+            "chic"
+        ]
+    },
+    {
+        "id": "lv_009",
+        "name": "LV Initiales 40mm Reversible Belt",
+        "price": 590,
+        "currency": "USD",
+        "category": "Accessories",
+        "description": "This LV Initiales 40mm reversible belt features Monogram canvas on one side and solid black calf leather on the other, fastened with a gleaming LV signature buckle.",
+        "color": "Monogram/Black",
+        "material": "Canvas and Calf Leather",
+        "style_tags": [
+            "essential",
+            "reversible",
+            "statement-buckle",
+            "everyday"
+        ]
+    },
+    {
+        "id": "lv_010",
+        "name": "Silk Monogram Pajama Shirt",
+        "price": 2100,
+        "currency": "USD",
+        "category": "Ready-to-Wear",
+        "description": "A relaxed yet refined pajama shirt tailored from fluid silk twill featuring an allover Monogram print. Perfect for lounging or elevated streetwear.",
+        "color": "Navy",
+        "material": "100% Silk",
+        "style_tags": [
+            "loungewear",
+            "luxurious",
+            "streetwear",
+            "silk",
+            "relaxed"
+        ]
+    }
+]
