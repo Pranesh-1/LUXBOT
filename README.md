@@ -12,6 +12,8 @@ An enterprise-grade, agentic AI stylist built to operate over WhatsApp. This sys
 
 ## Architecture (Make.com)
 
+![Make.com Architecture Blueprint](architecture.png)
+
 This system is completely serverless and orchestrated via Make.com using a highly robust 5-step pipeline:
 
 1. **Twilio Webhook**: Listens 24/7 for incoming WhatsApp messages and media.
